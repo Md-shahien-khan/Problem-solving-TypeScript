@@ -3,7 +3,7 @@
 
 # Differences between interfaces and types in TypeScript
 
-Use of keyof keyword with an example
+# Use of keyof keyword with an example
 # TypeScript এর Interfaces এবং Types এর মধ্যে পার্থক্য
 
 TypeScript এ interface এবং type দুইটাই type definitions এর জন্য ব্যবহৃত হয়, কিন্তু এগুলোর মধ্যে কিছু গুরুত্বপূর্ণ পার্থক্য আছে:
